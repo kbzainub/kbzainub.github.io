@@ -11,7 +11,7 @@ nav ul li {
 
 nav ul li a{
     display: block;
-    padding: .5rem 1lem;
+    padding: .5rem 1rem;
     background-color: coral;
 }
 main h1{
@@ -22,4 +22,5 @@ main img{
 }
 footer{
     text-align: center;
+    clear: both;
 }
